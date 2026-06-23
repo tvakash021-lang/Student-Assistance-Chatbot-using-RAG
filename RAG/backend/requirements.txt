@@ -1,0 +1,16 @@
+fastapi==0.103.0
+uvicorn==0.23.2
+sqlalchemy==2.0.20
+pydantic==2.3.0
+groq==0.4.1
+sentence-transformers==2.7.0
+faiss-cpu==1.7.4
+python-multipart==0.0.6
+PyPDF2==3.0.0
+python-docx==0.8.11
+httpx==0.24.1
+python-dotenv==1.0.0
+kokoro==0.3.4
+soundfile
+whisperx
+gTTS
